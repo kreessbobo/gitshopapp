@@ -2,6 +2,14 @@ import React, { Component } from 'react'
 import './login.css';
 
 class Login extends Component {
+    
+    constructor(){
+        super(props);
+        state = {
+       email:'',
+           password:''
+        }
+    }
 
     render() {
      return (
