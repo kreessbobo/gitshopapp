@@ -1,0 +1,17 @@
+  body{
+  width: 100%;
+  min-height: 100px;
+}
+.expense{
+       width: 100%;
+       min-height: 100px;
+        padding:0px;
+        border: 0px solid black;
+        
+        
+
+}
+
+.expense.input type{
+        width:10%
+}

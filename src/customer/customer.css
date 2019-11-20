@@ -1,0 +1,15 @@
+body{
+  width: 100%;
+  min-height: 100px;
+}
+.customer{
+       width: 100%;
+       min-height: 100px;
+       border: 0px solid black;
+       margin-top: 70px;
+        
+        
+}
+.customer.input type{
+        width:20%
+}
